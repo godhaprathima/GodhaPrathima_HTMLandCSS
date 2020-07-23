@@ -1,0 +1,125 @@
+body
+{
+    margin:0;
+    padding:0;
+
+}
+h1
+{
+    width:100%;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    background-color:#2499c0;
+    background-size: auto;
+    text-align: left;
+
+}
+.btn 
+{
+    background-color:#1e9bc5;
+    color:white;
+    border:transparent;
+}
+h4 { 
+    display: flex; 
+    flex-direction: row; 
+    margin-top: 55px;
+} 
+  
+h4:before, 
+h4:after { 
+    content: ""; 
+    flex: 1 1; 
+    border-bottom: 2px solid rgb(56, 52, 52); 
+    margin: auto; 
+} 
+.Sign-in-form i
+{
+    position:absolute;
+}
+.Sign-in-form
+{
+    width:300px;
+    box-shadow:0 0 2px 0 rgba(0,0,0,0.3);
+    background:white;
+    padding:20px;
+    border-radius: 5px;
+    border:black;
+    margin:8% auto 0;
+    box-shadow:4px 4px black;
+    text-align:center;
+
+}
+.icon
+{
+    color:rgba(0,0,0,0.3);
+}
+.input-box
+{
+    width: 86%; 
+    padding:10px;
+    margin-bottom: 20px; 
+    
+    
+}
+
+
+.signin-btn
+{
+   
+    width:100%;
+    padding:5px;
+    color:white;
+    font-size: large;
+    font-weight:600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom:10px;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color:#21afde;
+}
+.Reference
+{
+    float:right;
+}
+.facebook-btn
+{
+    width:100%;
+    padding:5px;
+    color:white;
+    font-size: large;
+    font-weight:600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom:10px;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color:#5145c2;
+}
+.google-btn
+{
+    width:100%;
+    padding:5px;
+    color:white;
+    font-size: large;
+    font-weight:600;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom:10px;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color:#e0151f;
+}
+.EPAM-btn
+{
+    width:100%;
+    padding:5px;
+    color:white;
+    font-size: large;
+    font-weight:600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom:10px;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color:#98b12b;
+}
+
